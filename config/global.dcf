@@ -1,0 +1,8 @@
+data_loading: off
+cache_loading: on
+munging: on
+logging: off
+load_libraries: on
+libraries: lubridate, chron, xts, zoo, ncdf
+as_factors: on
+data_tables: off
