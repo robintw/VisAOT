@@ -1,3 +1,5 @@
+# Calculate RMSEs and other error metrics (m etc) for each visibility-estimation method
+
 merged$kosch = vis2aot_k(merged$meto)
 merged$sixs <- vis2aot_sixs(merged$meto)
 merged$modtran <- vis2aot_modtran(merged$meto)

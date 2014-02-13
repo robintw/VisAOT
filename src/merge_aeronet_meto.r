@@ -1,3 +1,5 @@
+# Merge the AERONET and the MetOffice data
+
 aeronet <- import_aeronet_data("data/AERONET/lev20/920801_111119_Chilbolton.lev20")
 meto <- import_meto_data("data/MetOffice/MetOData_All.csv")
 
